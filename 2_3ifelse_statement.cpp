@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-  /*  int age;
+    int age;
     cout<<"enter your age: ";
     cin>>age;
     if(age<13)
@@ -26,11 +26,11 @@ int main()
         if(age>21)
         {cout<<"you are eligible for marriage\n";}
         else cout<<"you r not eligible for marriage\n";
-    }*/
+    }
     
 
 
-    /*short int a,b,c,max;
+    short int a,b,c,max;
     cout<<"\nenter the value of 1st number a=: ";
     cin>>a;
     cout<<"\nenter the value of 2nd number b=: ";
@@ -47,7 +47,7 @@ int main()
     if(c>max)
     max=c;
     
-    cout<<"\n maximum is: "<<max;*/
+    cout<<"\n maximum is: "<<max;
 
 
     short int num;
