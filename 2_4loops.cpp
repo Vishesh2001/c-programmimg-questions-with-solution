@@ -5,7 +5,7 @@ problems-1 find sum of n numners.
 using namespace std;
 int main()
 {
-    /*
+   
     int num;
     cout<<"enter any positive integer"<<endl;
     cin>>num;
@@ -15,7 +15,7 @@ int main()
         sum=sum+i;
     }
     cout<<"\n sum of first "<<num<<" number is ="<<sum;
-    */
+    
 //while loop- take input until input is less 25;
 /*
 short int input;
