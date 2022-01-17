@@ -5,12 +5,12 @@ problem-1. print numbers from 1-100 except number divisible by 3
 using namespace std;
 int main()
 { 
-    /*for (int i=1;i<=100;i++)
+    for (int i=1;i<=100;i++)
    {
     if(i%3==0)
     {continue;}
     cout<<i<<"\n";
-   }*/
+   }
    
    //prime number checking
    int num,i;
