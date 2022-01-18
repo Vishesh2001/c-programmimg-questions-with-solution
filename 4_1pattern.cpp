@@ -9,10 +9,10 @@ int main()
     cin>>col;
     
     
-    /*      * * * * * 
+         /* * * * * * 
             * * * * *   
             * * * * *
-            * * * * *   /
+            * * * * *   */
     
     
     for(i=0;i<row;i++)
@@ -28,7 +28,7 @@ int main()
             *       *   
             *       *
             * * * * *   
-            hollow rectangle /
+            hollow rectangle */
 
 for (i=1;i<=row;i++)
 { 
@@ -48,7 +48,7 @@ for (i=1;i<=row;i++)
             * * * *    
             * * *
             * *
-            *         inverted pyramid   /
+            *         inverted pyramid   */
 
     for(i=0;i<row;i++)
     {
@@ -66,7 +66,7 @@ for (i=1;i<=row;i++)
             **
            ***
           ****
-         *****        inverted pyramid with 180 degree reotation/
+         *****        inverted pyramid with 180 degree reotation*/
 
 
     cout<<"\n";
@@ -88,7 +88,7 @@ for (i=1;i<=row;i++)
     333
     4444
     55555 
-    /
+    */
    for(i=1;i<=row;i++)
    {
        for(j=1;j<=i;j++)
@@ -103,7 +103,7 @@ for (i=1;i<=row;i++)
     4 5 6
     7 8 9 10
     11 12 13 14 15 
-    /
+    */
    int k=1;
    for(i=1;i<=row;i++)
    {
@@ -112,7 +112,7 @@ for (i=1;i<=row;i++)
        
     cout<<"\n";
    }
-   /
+   /*
     butterfly pattern
 
     *      *
