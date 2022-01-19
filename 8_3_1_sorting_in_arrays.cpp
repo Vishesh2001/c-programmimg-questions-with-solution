@@ -1,7 +1,7 @@
 /*sorting in arrays.
 sorting is a process of ordering the elements in ascending or descending arrays.
 types of sorting
-1. selection arrays: find the minimum element in the array and replace it with the element at begining.
+1. selection sort: find the minimum element in the array and replace it with the element at begining.
 
 */
 #include<bits/stdc++.h>
