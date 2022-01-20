@@ -16,7 +16,7 @@ challenge 4: record breaker: rahul is given the number of visitors at her local 
 
 #include<bits/stdc++.h>
 using namespace std;
-/*
+
 void challenge_1(int arr[],int size)
 {
     int mx=INT_MIN;
@@ -26,8 +26,8 @@ void challenge_1(int arr[],int size)
         cout<<mx<<" ";
     }
 
-}*/
-/*
+}
+
 void sum_subarrays(int arr[],int size)
 {
     for(int i=0;i<size;i++)
@@ -42,8 +42,7 @@ void sum_subarrays(int arr[],int size)
     }
 
 }
-*/
-/*
+
 void longest_ap_array( int arr[], int size)
 {
     int max_len=2; // minmum length of AP subarray is 2....as [4 5],[3, 2] are examples of AP subarray. 
@@ -65,7 +64,7 @@ void longest_ap_array( int arr[], int size)
     }
     cout<<" longest arimatic subarray length is "<<max_len;
 }
-*/
+
  void record_breaker(int a[],int size)
  {
      if(size==1)
@@ -96,9 +95,9 @@ int main()
     int array[size];
     for(int i=0;i<size;i++)
         cin>>array[i];
-   // challenge_1(array,size);
-   // sum_subarrays(array,size);
-   // longest_ap_array(array,size);
+   challenge_1(array,size);
+    sum_subarrays(array,size);
+    longest_ap_array(array,size);
     record_breaker(array,size);
     return 0;
 
