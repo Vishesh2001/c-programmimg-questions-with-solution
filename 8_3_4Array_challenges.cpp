@@ -25,7 +25,6 @@ void challenge_1(int arr[],int size)
         mx=max(mx,arr[i]);
         cout<<mx<<" ";
     }
-
 }
 
 void sum_subarrays(int arr[],int size)
@@ -38,9 +37,7 @@ void sum_subarrays(int arr[],int size)
             cout<<sum << " ";
         }
         cout<<"\n";
-
     }
-
 }
 
 void longest_ap_array( int arr[], int size)
@@ -60,7 +57,7 @@ void longest_ap_array( int arr[], int size)
                 prev_cd=curr_cd;
                 len=2;
             }
-            max_len=max(max_len,len);
+        max_len=max(max_len,len);
     }
     cout<<" longest arimatic subarray length is "<<max_len;
 }
@@ -95,7 +92,7 @@ int main()
     int array[size];
     for(int i=0;i<size;i++)
         cin>>array[i];
-   challenge_1(array,size);
+    challenge_1(array,size);
     sum_subarrays(array,size);
     longest_ap_array(array,size);
     record_breaker(array,size);
