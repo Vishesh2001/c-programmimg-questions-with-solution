@@ -38,7 +38,7 @@ int min_index(int arr[],int size)
     }
     else
     return min_idx+1;
-}-
+}
 
 
 void given_sum_subarray(int arr[],int size, int S)
@@ -54,8 +54,7 @@ void given_sum_subarray(int arr[],int size, int S)
                 break;
            }
         else 
-        {
-            low++;
+        {   low++;
             high=low;
             sum=0;
         }
