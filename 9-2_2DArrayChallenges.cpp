@@ -33,7 +33,7 @@ int main()
         }
         cout<<"\n";
     }
-    /*cout<<"/ntransposed matrix is: ";
+    cout<<"/ntransposed matrix is: ";
      for (int i=0;i<col;i++)
     {
         for(int j=0;j<row;j++)
@@ -98,7 +98,6 @@ int main()
         }
         cout<<"\n";
     }
-*/
 //element searching
     int target;
     cout<<"\nelement to search :";
