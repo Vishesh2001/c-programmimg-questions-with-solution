@@ -3,7 +3,8 @@ string challenges.
 challenge 1=convert the string into uppercase format.
 challenge 2=maximum occured character in the string
 challenge 3=form the biggest number from the numeric string.
-*/#include<bits/stdc++.h>
+*/
+#include<bits/stdc++.h>
 using namespace std;
 int main()
 {
