@@ -1,8 +1,4 @@
-/*
-challenge 1- to a number is power of 2 or not.
-challenge 2- to count the numbers of 1 in binary representation of the number.
-challenge 3- to make all subsets of a set.
-*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
