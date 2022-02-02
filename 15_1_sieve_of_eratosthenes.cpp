@@ -1,6 +1,6 @@
 /*
 problem 1= print all the prime numbers less than equal to given number.
-problem 2- print the prime factorisation of a number using sieve.
+problem 2- print the prime factorization of a number using sieve.
 */
 #include<bits/stdc++.h>
 using namespace std;
