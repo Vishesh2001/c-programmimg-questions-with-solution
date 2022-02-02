@@ -1,5 +1,5 @@
 /*
-problem 1- how many numbers between 1 and 1000 are divisible by 5 or 7?
+problem 1- how many numbers between 1 and 1000 are divisible by any two numbers a or b?
 problem 2- euclid algorithm to find gcd.
 */
 #include<bits/stdc++.h>
